@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gundavenkatasai&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+</p> -->
 
 ---
 
@@ -86,11 +86,9 @@
 ---
 
 ## 🏆 Certifications
-
-- **Web Development Bootcamp** – Udemy
-- **React - The Complete Guide** – Udemy
-- **Node.js, Express, MongoDB** – Coursera
-- **Python for Data Science** – IBM
+-  Successfully completed Computer Organization and Design from Coursera.
+- NPTEL Online Certification for passing the course (Advanced Computer Network).
+- Successfully completed DSA with C++ Certification from Neocolab
 
 ---
 
